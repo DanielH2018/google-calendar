@@ -1,0 +1,23 @@
+{
+  "name": "google-calendar",
+  "version": "1.0.0",
+  "description": "Desktop Google Calendar App",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^5.0.4",
+    "electron-builder": "^20.44.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "google-calendar-desktop"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "Daniel Hunter",
+  "license": "ISC"
+}

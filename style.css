@@ -1,0 +1,12 @@
+html {
+	-webkit-filter: invert(90%) hue-rotate(180deg);
+	filter: invert(90%) hue-rotate(180deg);
+	background: rgb(25, 25, 25);
+}
+#onegoogbar a[href^="https://accounts.google.com"],
+#onegoogbar a[href="javascript:_SR_backToCalendar();"],
+#gb a[href^="https://accounts.google.com"],
+div[data-hovercard-id] {
+	-webkit-filter: invert(100%) hue-rotate(180deg);
+	filter: invert(100%) hue-rotate(180deg);
+}
