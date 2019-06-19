@@ -1,3 +1,2 @@
 # google-calendar
-Google Calendar Desktop App
-Google Calendar with Inverted Colors
+Google Calendar Desktop App with Inverted Colors
