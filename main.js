@@ -1,6 +1,6 @@
 const electron = require('electron');
 const { shell, app, BrowserWindow } = electron;
-const HOMEPAGE = 'https://accounts.google.com/signin/v2/identifier?service=cl&passive=1209600&osid=1&continue=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender&followup=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender&scc=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin'
+const HOMEPAGE = 'https://calendar.google.com/calendar/r'
 const path = require('path');
 const iconPath = path.join(__dirname, 'icon.ico')
 const fs = require('fs');
