@@ -12,7 +12,7 @@ app.on('ready', () => {
         
         width: 1200,
         height: 900,
-
+        fullscreen: true,
         icon: iconPath,
 
         webPreferences: {
